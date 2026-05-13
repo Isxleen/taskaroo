@@ -1,0 +1,66 @@
+# Built application files
+*.apk
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.navigation/
+
+# Kotlin
+.kotlin/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase / Google Services (optional if sensitive)
+google-services.json
+
+# NDK
+.externalNativeBuild/
+.cxx/
+
+# IntelliJ
+workspace.xml
+tasks.xml
+usage.statistics.xml
+dictionaries/
+shelf/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Mac
+*.swp
